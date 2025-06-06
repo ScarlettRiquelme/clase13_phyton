@@ -7,3 +7,5 @@ for i in range(100): #ciclo para repetir 100 veces las interaciones
     numeros.append(n) #guardamos en la lista el numero aleatorio
 
 print(numeros) #visualisamos lista
+
+print("XD")
